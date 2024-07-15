@@ -31,5 +31,5 @@
 
 ## Các sản phẩm và dịch vụ phát triển, quản lý
 
-* **Hệ Sinh Thái Công Nghệ - Technology Ecosystem Media (TEM)**: [Tài liệu](project/TEM.md)
+* **Hệ Sinh Thái Công Nghệ lớn - AF-Tech**: [Tài liệu](project/AF-Tech.md)
 * [**Mục Vụ Công Nghệ Tin Lành Việt Nam - Media project's technology assistant (PTA)**](https://www.facebook.com/CongNgheTinLanh): [Tài liệu](project/PTA.md)
